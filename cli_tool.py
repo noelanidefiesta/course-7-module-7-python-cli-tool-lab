@@ -1,5 +1,6 @@
+#!/usr/bin/env python3
 import argparse
-from models import Task, User
+from lib.models import Task, User
 
 users = {}
 
